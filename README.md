@@ -1,6 +1,11 @@
 titanic
 ==============================
 
+# Data Sets 
+kaggle competitions download -c titanic -f test.csv -p .\data\raw
+kaggle competitions download -c titanic -f train.csv -p .\data\raw
+kaggle competitions download -c titanic -f gender_submission.csv -p .\data\raw
+
 A short description of the project.
 
 Project Organization
